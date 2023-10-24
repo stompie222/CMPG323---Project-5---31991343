@@ -1,16 +1,16 @@
 # CMPG323--Project-5--31991343
-In this Project I have used various visualization Techniques to Report the data obtained by the API and website. I created a live connection to the hosted sharepoint excel file provided in this course. This was a bit of a tricky one as I was unsure that I created the coorrect connection.
+For this project, I utilized various data visualization techniques to present data obtained from both an API and a website. One of the challenges I encountered was establishing a live connection to the hosted SharePoint Excel file provided in the course, as I had some initial doubts about the correctness of the connection.
 
-There are 3 Pages available . 'High-leve Metrics', 'Device Monitoring' and 'Device registration' Both containing their own unique data visualization.
+The project consists of three pages: "High-level Metrics," "Order Monitoring," and "Product Monitoring." Each of these pages offers unique data visualizations tailored to their respective purposes.
 
 ## 'High-Level Metrics': 
-image This page is used to visualy represent High-level metrics that may contain improtant data to the company. I Included what I thought would be important to the company.
+On this page, I focused on visually representing high-level metrics that are potentially significant for the company. I included what I deemed important for the company's needs.
 
-## 'Device Monitoring':
-image With Device monitoring the user is able to see varouis insightful information regarding to the devices. Like what is acvtive and what zones and catagories are popular.
+## 'Order Monitoring':
+In the "Order Monitoring" section, users can monitor valuable insights about orders, such as their order status and categories.
 
-## 'Device Registration':
-image With device registration, a more time focused apprach was taken. Users are able to see visualizations in treads to get a better insight of when devices are registered.
+## 'Product Monitoring':
+In the "Product Monitoring" section, I took a more time-oriented approach. Users can monitor visualizations presented in a timeline format to gain a better understanding of when products are ordered.
 
 ## Reporting and filtering:
-There are page specefic filters and then filters that are applicable over all pages. I also included a filter to constantly see what devices are active or inactive
+The project includes both page-specific filters and filters that apply across all pages. Additionally, I implemented a filter to continuously monitor the activity status of devices, distinguishing between active and inactive ones.
