@@ -7,13 +7,13 @@ The project consists of three pages: "High-level Metrics," "Order Monitoring," a
 On this page, I focused on visually representing high-level metrics that are potentially significant for the company. I included what I deemed important for the company's needs.
 
 ## 'Order Monitoring':
-In the "Order Monitoring" section, users can monitor valuable insights about orders, such as their order status and categories.
+In the "Order Monitoring" section, users can monitor valuable insights about orders, such as their order status and categories, customers and even products.
 
 ## 'Product Monitoring':
 In the "Product Monitoring" section, I took a more time-oriented approach. Users can monitor visualizations presented in a timeline format to gain a better understanding of when products are ordered.
 
 ## Reporting and filtering:
-The project includes both page-specific filters and filters that apply across all pages. Additionally, I implemented a filter to continuously monitor the activity status of devices, distinguishing between active and inactive ones.
+The project includes both page-specific filters and filters that apply across all pages. Additionally, I implemented a filter to continuously monitor the status of products, orders and customers.
 
 # Reference list for 31991343:
 Reference List
